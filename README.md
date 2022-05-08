@@ -1,10 +1,10 @@
 ### Follow Me :
 <div id="badges">
   <a href="https://github.com/kiritoroo">
-    <img src="https://img.shields.io/badge/Github-pink?style=?style=flat&logo=appveyor&logo=linkedin&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-gray?style=?style=flat&logo=appveyor&logo=linkedin&logoColor=white" alt="Github Badge"/>
   </a>
     <a href="https://www.facebook.com/trung4eyes/">
-    <img src="https://img.shields.io/badge/Facebook-green?style=?style=flat&logo=appveyor&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=?style=flat&logo=appveyor&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
