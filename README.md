@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Github-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github Badge"/>
   </a>
     <a href="https://www.facebook.com/trung4eyes/">
-    <img src="https://img.shields.io/badge/Github-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
@@ -15,3 +15,4 @@
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
