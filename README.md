@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
 <div>
-  
-### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="100" height="100"/>&nbsp;
 </div>
