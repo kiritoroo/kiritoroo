@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kiritoro&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=kiritoro&color=blue&label=++ビューア++)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiritoroo&locale=ja)](https://git.io/streak-stats)
 
